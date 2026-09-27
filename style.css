@@ -1,0 +1,44 @@
+body{
+    background-color: #e04b11;
+}
+.head{
+    color:blueviolet;
+}
+h1{
+    font: size 40px;
+}
+#bglime{
+    font-size:55px;
+    background-color: #30d317;
+}
+#pg{
+    color:#ff0000;
+}
+h4{
+    font-size:20px;
+}
+p{
+    color:aliceblue;
+}
+#para{
+    color:#2fe712;
+}
+#pp{
+    color:#181616;
+}
+h3{
+    color:black;
+}
+a{
+    color:#d616b6;
+    background-color: #d1ca06;
+}
+#ff{
+    background-color: #217fd7;
+}
+ol li:nth-child(2){
+    color:blue;
+}
+ol li:nth-child(3){
+    color:red;
+}
